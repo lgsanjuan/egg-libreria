@@ -1,0 +1,19 @@
+#principal{
+    background-image: url('../imagenes/101113-lifestyle-meditation-book-beach-relax-calm-vacation-reading-jpg.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: inherit;
+}
+
+
+nav.navbar {
+    background-color: transparent;
+    color: blue;
+}
+    
+#book {
+    margin-left: 10%;
+    margin-right: 60%;
+       
+    
+}
